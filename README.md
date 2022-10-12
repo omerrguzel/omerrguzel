@@ -1,7 +1,7 @@
 ![android_kotlin](https://github.com/omerrguzel/omerrguzel/blob/main/android_flag.gif?raw=true)
 # 💫 About Me:
 
-👨🏻‍💻 This is Ömer!<br>📱 I am currently on the self-learning path for being an Android Dev.<br>👨🏻‍🎓BSc.- Electrical&Electronics Engineering<br>🚗Working at Ford Otosan as System Engineer&Functional Safety Engineer<br>
+👨🏻‍💻 This is Ömer!<br>📱 I am an Android Dev.<br>👨🏻‍🎓BSc.- Electrical&Electronics Engineering<br>
 
 
 ## 🌐 Socials:
